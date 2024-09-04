@@ -2,6 +2,8 @@
 
 Example project of using raw php (framework free) to create a command line application to manage tasks.
 
+**Tested on PHP 8.1.2`**
+
 List tasks:
 ```shell
 $ php task-cli.php list
