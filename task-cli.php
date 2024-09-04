@@ -1,7 +1,5 @@
 <?php
 
-use JetBrains\PhpStorm\NoReturn;
-
 const FILE_NAME = 'task-cli.json';
 const EXPECTED_ARGS = [
     'add',
